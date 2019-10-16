@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Martin",
+    "surname": "Martinovski",
+    "email": "martin@gmail.com",
+    "age": 20,
+    "isActive": false , 
+    "number" : 1 
+
+  },
+  {
+    "id": 1,
+    "name": "Capo",
+    "surname": "Stefanovski",
+    "email": "Nikica@gmail.com",
+    "age": 22,
+    "isActive": true , 
+    "number" : 1 
+  },
+  {
+    "id": 10,
+    "name": "Nikica ",
+    "surname": "markovski",
+    "email": "Nikica@gmail.com",
+    "age": 22,
+    "isActive": true ,
+    "number" : 1 
+  },
+  {
+    "id": 6,
+    "name": "Petar",
+    "surname": "Petrovski",
+    "email": "petar@gmail.com",
+    "age": 22,
+    "isActive": false , 
+    "number" : 1 
+  },
+  {
+    "id" : 7 ,
+    "name" : "Bojana",
+    "surname" : "Markovska" , 
+    "email" : "trajkovskabojana@gmain.com" ,
+    "age" : 25 ,
+    "isActive" : true ,
+    "number" : 1 
+    }
+  
+]
